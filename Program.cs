@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _Deposit_Calculator
+namespace 03_Deposit_Calculator
 {
     internal class Program
     {
